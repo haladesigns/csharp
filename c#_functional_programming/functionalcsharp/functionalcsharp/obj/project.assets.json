@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\fhala958\\Desktop\\Git Repos\\C#\\c#_functional_programming\\functionalcsharp\\functionalcsharp\\functionalcsharp.csproj",
+      "projectUniqueName": "C:\\Users\\fhala958\\Source\\repos\\c#_functional_programming\\functionalcsharp\\functionalcsharp\\functionalcsharp.csproj",
       "projectName": "functionalcsharp",
-      "projectPath": "C:\\Users\\fhala958\\Desktop\\Git Repos\\C#\\c#_functional_programming\\functionalcsharp\\functionalcsharp\\functionalcsharp.csproj",
+      "projectPath": "C:\\Users\\fhala958\\Source\\repos\\c#_functional_programming\\functionalcsharp\\functionalcsharp\\functionalcsharp.csproj",
       "packagesPath": "C:\\Users\\fhala958\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fhala958\\Desktop\\Git Repos\\C#\\c#_functional_programming\\functionalcsharp\\functionalcsharp\\obj\\",
+      "outputPath": "C:\\Users\\fhala958\\Source\\repos\\c#_functional_programming\\functionalcsharp\\functionalcsharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

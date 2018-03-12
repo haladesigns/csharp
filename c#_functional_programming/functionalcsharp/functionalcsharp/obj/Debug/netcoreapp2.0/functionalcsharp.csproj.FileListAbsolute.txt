@@ -9,3 +9,14 @@ C:\Users\fhala958\Desktop\Git Repos\C#\c#_functional_programming\functionalcshar
 C:\Users\fhala958\Desktop\Git Repos\C#\c#_functional_programming\functionalcsharp\functionalcsharp\obj\Debug\netcoreapp2.0\functionalcsharp.AssemblyInfo.cs
 C:\Users\fhala958\Desktop\Git Repos\C#\c#_functional_programming\functionalcsharp\functionalcsharp\obj\Debug\netcoreapp2.0\functionalcsharp.dll
 C:\Users\fhala958\Desktop\Git Repos\C#\c#_functional_programming\functionalcsharp\functionalcsharp\obj\Debug\netcoreapp2.0\functionalcsharp.pdb
+C:\Users\fhala958\Source\repos\c#_functional_programming\functionalcsharp\functionalcsharp\bin\Debug\netcoreapp2.0\functionalcsharp.deps.json
+C:\Users\fhala958\Source\repos\c#_functional_programming\functionalcsharp\functionalcsharp\bin\Debug\netcoreapp2.0\functionalcsharp.runtimeconfig.json
+C:\Users\fhala958\Source\repos\c#_functional_programming\functionalcsharp\functionalcsharp\bin\Debug\netcoreapp2.0\functionalcsharp.runtimeconfig.dev.json
+C:\Users\fhala958\Source\repos\c#_functional_programming\functionalcsharp\functionalcsharp\bin\Debug\netcoreapp2.0\functionalcsharp.dll
+C:\Users\fhala958\Source\repos\c#_functional_programming\functionalcsharp\functionalcsharp\bin\Debug\netcoreapp2.0\functionalcsharp.pdb
+C:\Users\fhala958\Source\repos\c#_functional_programming\functionalcsharp\functionalcsharp\obj\Debug\netcoreapp2.0\functionalcsharp.csprojResolveAssemblyReference.cache
+C:\Users\fhala958\Source\repos\c#_functional_programming\functionalcsharp\functionalcsharp\obj\Debug\netcoreapp2.0\functionalcsharp.csproj.CoreCompileInputs.cache
+C:\Users\fhala958\Source\repos\c#_functional_programming\functionalcsharp\functionalcsharp\obj\Debug\netcoreapp2.0\functionalcsharp.AssemblyInfoInputs.cache
+C:\Users\fhala958\Source\repos\c#_functional_programming\functionalcsharp\functionalcsharp\obj\Debug\netcoreapp2.0\functionalcsharp.AssemblyInfo.cs
+C:\Users\fhala958\Source\repos\c#_functional_programming\functionalcsharp\functionalcsharp\obj\Debug\netcoreapp2.0\functionalcsharp.dll
+C:\Users\fhala958\Source\repos\c#_functional_programming\functionalcsharp\functionalcsharp\obj\Debug\netcoreapp2.0\functionalcsharp.pdb
