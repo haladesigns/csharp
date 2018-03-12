@@ -1,0 +1,10 @@
+c:\users\fhala958\Source\repos\TestTurningOffMonitor\bin\Debug\netcoreapp2.0\TestTurningOffMonitor.deps.json
+c:\users\fhala958\Source\repos\TestTurningOffMonitor\bin\Debug\netcoreapp2.0\TestTurningOffMonitor.runtimeconfig.json
+c:\users\fhala958\Source\repos\TestTurningOffMonitor\bin\Debug\netcoreapp2.0\TestTurningOffMonitor.runtimeconfig.dev.json
+c:\users\fhala958\Source\repos\TestTurningOffMonitor\bin\Debug\netcoreapp2.0\TestTurningOffMonitor.dll
+c:\users\fhala958\Source\repos\TestTurningOffMonitor\bin\Debug\netcoreapp2.0\TestTurningOffMonitor.pdb
+c:\users\fhala958\Source\repos\TestTurningOffMonitor\obj\Debug\netcoreapp2.0\TestTurningOffMonitor.csproj.CoreCompileInputs.cache
+c:\users\fhala958\Source\repos\TestTurningOffMonitor\obj\Debug\netcoreapp2.0\TestTurningOffMonitor.AssemblyInfoInputs.cache
+c:\users\fhala958\Source\repos\TestTurningOffMonitor\obj\Debug\netcoreapp2.0\TestTurningOffMonitor.AssemblyInfo.cs
+c:\users\fhala958\Source\repos\TestTurningOffMonitor\obj\Debug\netcoreapp2.0\TestTurningOffMonitor.dll
+c:\users\fhala958\Source\repos\TestTurningOffMonitor\obj\Debug\netcoreapp2.0\TestTurningOffMonitor.pdb

@@ -1,0 +1,193 @@
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\ApplicationInsights.config
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\roslyn\csc.exe
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\roslyn\vbc.exe
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\NBACRUD.dll.config
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\NBACRUD.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\NBACRUD.pdb
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\Antlr3.Runtime.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\EntityFramework.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\EntityFramework.SqlServer.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\Microsoft.AI.Web.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\Microsoft.Owin.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\Microsoft.Owin.Security.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\NBADataAccess.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\Newtonsoft.Json.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\Owin.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\System.Net.Http.Formatting.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\System.Web.Helpers.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\System.Web.Http.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\System.Web.Http.Owin.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\System.Web.Http.WebHost.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\System.Web.Mvc.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\System.Web.Optimization.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\System.Web.Razor.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\System.Web.WebPages.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\WebGrease.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\NBADataAccess.pdb
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\Microsoft.AI.Web.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\Newtonsoft.Json.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\System.Net.Http.Formatting.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\System.Web.Helpers.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\System.Web.Http.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\System.Web.Http.WebHost.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\System.Web.Mvc.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\System.Web.Optimization.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\System.Web.Razor.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\System.Web.WebPages.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\Antlr3.Runtime.pdb
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\EntityFramework.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\EntityFramework.SqlServer.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\Microsoft.Owin.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\Microsoft.Owin.Security.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\System.Web.Http.Owin.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\obj\Debug\NBA.csprojResolveAssemblyReference.cache
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\obj\Debug\NBACRUD.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\obj\Debug\NBACRUD.pdb
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\NBA.Repository.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBACRUD\bin\NBA.Repository.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\NBACRUD\NBACRUD\bin\NBA.Repository.dll.config
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\NBACRUD\NBACRUD\bin\NBADataAccess.dll.config
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\ApplicationInsights.config
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\roslyn\csc.exe
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\roslyn\vbc.exe
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\roslyn\VBCSCompiler.exe
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\NBACRUD.dll.config
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\NBACRUD.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\NBACRUD.pdb
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\Antlr3.Runtime.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\EntityFramework.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\EntityFramework.SqlServer.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\Microsoft.AI.Web.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\Microsoft.ApplicationInsights.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\Microsoft.Owin.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\Microsoft.Owin.Security.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\NBA.Repository.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\NBADataAccess.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\Newtonsoft.Json.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\Owin.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\System.Net.Http.Formatting.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\System.Web.Helpers.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\System.Web.Http.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\System.Web.Http.Owin.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\System.Web.Http.WebHost.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\System.Web.Mvc.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\System.Web.Optimization.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\System.Web.Razor.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\System.Web.WebPages.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\System.Web.WebPages.Razor.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\WebGrease.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\NBA.Repository.pdb
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\NBA.Repository.dll.config
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\NBADataAccess.pdb
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\NBADataAccess.dll.config
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\Microsoft.AI.Web.xml
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\Microsoft.ApplicationInsights.xml
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\Newtonsoft.Json.xml
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\System.Net.Http.Formatting.xml
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\System.Web.Helpers.xml
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\System.Web.Http.xml
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\System.Web.Http.WebHost.xml
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\System.Web.Mvc.xml
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\System.Web.Optimization.xml
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\System.Web.Razor.xml
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\System.Web.WebPages.xml
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\System.Web.WebPages.Razor.xml
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\Antlr3.Runtime.pdb
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\EntityFramework.xml
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\EntityFramework.SqlServer.xml
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\Microsoft.Owin.xml
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\Microsoft.Owin.Security.xml
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\bin\System.Web.Http.Owin.xml
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\obj\Debug\NBA.csprojResolveAssemblyReference.cache
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\obj\Debug\NBA.csproj.CoreCompileInputs.cache
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\obj\Debug\NBACRUD.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBACRUD\obj\Debug\NBACRUD.pdb

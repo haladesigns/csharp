@@ -1,0 +1,11 @@
+C:\Users\fhala958\Source\repos\codality\codality\bin\Debug\netcoreapp2.0\codality.deps.json
+C:\Users\fhala958\Source\repos\codality\codality\bin\Debug\netcoreapp2.0\codality.runtimeconfig.json
+C:\Users\fhala958\Source\repos\codality\codality\bin\Debug\netcoreapp2.0\codality.runtimeconfig.dev.json
+C:\Users\fhala958\Source\repos\codality\codality\bin\Debug\netcoreapp2.0\codality.dll
+C:\Users\fhala958\Source\repos\codality\codality\bin\Debug\netcoreapp2.0\codality.pdb
+C:\Users\fhala958\Source\repos\codality\codality\obj\Debug\netcoreapp2.0\codality.csprojResolveAssemblyReference.cache
+C:\Users\fhala958\Source\repos\codality\codality\obj\Debug\netcoreapp2.0\codality.csproj.CoreCompileInputs.cache
+C:\Users\fhala958\Source\repos\codality\codality\obj\Debug\netcoreapp2.0\codality.AssemblyInfoInputs.cache
+C:\Users\fhala958\Source\repos\codality\codality\obj\Debug\netcoreapp2.0\codality.AssemblyInfo.cs
+C:\Users\fhala958\Source\repos\codality\codality\obj\Debug\netcoreapp2.0\codality.dll
+C:\Users\fhala958\Source\repos\codality\codality\obj\Debug\netcoreapp2.0\codality.pdb

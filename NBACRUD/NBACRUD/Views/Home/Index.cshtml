@@ -1,0 +1,202 @@
+﻿@model IEnumerable<NBADataAccess.Game>
+@{
+    ViewBag.Title = "Home Page";
+}
+<p></p>
+
+<script type="text/javascript" src="~/Scripts/NBA/export.js"></script>
+
+@*<a href="#" onClick="$('#nbaGames').tableExport({ type: 'json', escape: 'false' });">JSON</a>
+<a href="#" onClick="$('#nbaGames').tableExport({ type: 'excel', escape: 'false' });">XLS</a>
+<a href="#" onClick="$('#nbaGames').tableExport({ type: 'csv', escape: 'false' });">CSV</a>
+<a href="#" onClick="$('#nbaGames').tableExport({ type: 'pdf', escape: 'false' });">PDF</a>*@
+@* class="table-responsive" *@
+<div class="container">
+    <!--lOGO-->
+    <div id="logo">
+        <img src="~/images/NBA_Logo.jpg" width="70" />
+    </div>
+
+    <!--EXPORT TO EXCEL AND CSV BUTTONS-->
+    <div id="export">
+        <button type="button" onclick="exporttoexcel()" class="btn btn-success">
+            <i class="fa fa-file-excel-o" aria-hidden="true"></i>
+            Excel
+        </button>
+        <button type="button" onclick="exporttocsv();" class="btn btn-primary">
+            <i class="fa fa-file-o" aria-hidden="true"></i>
+            CSV
+        </button>
+    </div>
+
+    <!--NBA GAMES TABLE-->
+    <table class="table table-bordered table-condensed primary table-striped table-hover table-active tablesorter" 
+           id="nbaGames">
+        <thead class="text-white">
+            <tr>
+                <th class="col-md-1">#</th>
+                <th class="col-md-2">Team1</th>
+                <th class="col-md-2">Team2</th>
+                <th class="col-md-1">Period</th>
+                <th class="col-md-2">Time</th>
+                <th class="col-md-2">Description</th>
+                <th class="col-md-1">Score1</th>
+                <th class="col-md-1">Score2</th>
+                <th class="col-md-1">Edit</th>
+                <th class="col-md-1">Delete</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var g in Model)
+            {
+                <tr>
+                    <td>@g.ID</td>
+                    <td>@g.Team1 </td>
+                    <td>@g.Team2</td>
+                    <td>@g.Period</td>
+                    <td>@g.Time</td>
+                    <td>@g.Description</td>
+                    <td>@g.ScoreTeam1</td>
+                    <td>@g.ScoreTeam2</td>
+                    <td>
+                        <button type="button" onclick=""  id="editGame" class="btn btn-default" data-toggle="modal" data-target="#Edit">
+                            @Html.ActionLink("Edit", "Edit", null ,null, new {id = g.ID })
+                        </button>
+                    </td>
+                    <td class="col-xs-4">
+                        <button type="button" onclick="" class="btn btn-default">
+                            @Html.ActionLink("Delete", "Delete", new { id = g.ID })
+                        </button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <button type="button" onclick="" class="btn btn-primary" data-toggle="modal" data-target="#Add">
+        Add Game
+    </button>
+</div>
+
+
+<!-- EDIT MODAL -->
+<div id="Edit" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+
+        <!-- MODAL CONTENT-->
+        <div class="modal-content">
+
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">Edit Game</h4>
+            </div>
+
+            <div class="modal-body">
+                <form class="form-group">
+                    <label>Team 1</label>
+                    <select class="form-control selectTeams" id="Team1edit"></select>
+                </form>
+
+                <form class="form-group">
+                    <label>Team 2</label>
+                    <div class="form-group">
+                        <select class="form-control selectTeams" id="Team2edit"></select>
+                    </div>
+                </form>
+
+                <form class="form-group">
+                    <label>Period</label>
+                    <input class="form-control" placeholder="Period" id="Periodedit" />
+                </form>
+
+                <form class="form-group">
+                    <label>Time</label>
+                    <input class="form-control" placeholder="Time - 00:00:00"  id="Timeedit"/>
+                </form>
+
+                <form class="form-group">
+                    <label>Description</label>
+                    <input class="form-control" placeholder="Description"  id="Descriptionedit"/>
+                </form>
+
+                <form class="form-group">
+                    <label>Score Team 1</label>
+                    <input class="form-control" placeholder="Sore Team 1"  id="ScoreTeam1edit"/>
+                </form>
+
+                <form class="form-group">
+                    <label>Score Team 2</label>
+                    <input class="form-control" placeholder="Sore Team 2" id="ScoreTeam2edit"/>
+                </form>
+            </div>
+
+            <!--MODAL FOOTER-->
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                <button type="button" id="editSave" class="btn btn-default" data-toggle="modal" data-target="#Edit">
+                    Save
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--ADD GAME MODAL-->
+<div id="Add" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+
+        <!-- MODAL CONTENT-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">Add Game</h4>
+            </div>
+
+            <div class="modal-body">
+                <form class="form-group">
+                    <label>Team 1</label>
+                    <select class="form-control selectTeams" id="Team1add"></select>
+                </form>
+
+                <form class="form-group">
+                    <label>Team 2</label>
+                    <div class="form-group">
+                        <select class="form-control selectTeams" id="Team2add"></select>
+                    </div>
+                </form>
+
+                <form class="form-group">
+                    <label>Period</label>
+                    <input class="form-control" placeholder="Period" id="Periodadd"/>
+                </form>
+                <form class="form-group">
+                    <label>Time</label>
+                    <input class="form-control" placeholder="Time - 00:00:00" id="Timeadd"/>
+                </form>
+
+                <form class="form-group">
+                    <label>Description</label>
+                    <input class="form-control" placeholder="Description" id="Descriptionadd"/>
+                </form>
+
+                <form class="form-group">
+                    <label>Score Team 1</label>
+                    <input class="form-control" placeholder="Sore Team 1"  id="ScoreTeam1add"/>
+                </form>
+
+                <form class="form-group">
+                    <label>Score Team 2</label>
+                    <input class="form-control" placeholder="Sore Team 2" id="ScoreTeam2add"/>
+                </form>
+            </div>
+
+            <!--MODAL FOOTER-->
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                <button type="button" onclick="" class="btn btn-default" id="addGame">
+                    Save
+                </button>
+            </div>
+        </div>
+    </div>
+</div>

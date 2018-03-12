@@ -1,0 +1,14 @@
+C:\Users\fhala958\Source\repos\EmployeeTest\EmplyeeApplication\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\fhala958\Source\repos\EmployeeTest\EmplyeeApplication\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\fhala958\Source\repos\EmployeeTest\EmplyeeApplication\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\fhala958\Source\repos\EmployeeTest\EmplyeeApplication\bin\Debug\EmplyeeApplication.exe.config
+C:\Users\fhala958\Source\repos\EmployeeTest\EmplyeeApplication\bin\Debug\EmplyeeApplication.exe
+C:\Users\fhala958\Source\repos\EmployeeTest\EmplyeeApplication\bin\Debug\EmplyeeApplication.pdb
+C:\Users\fhala958\Source\repos\EmployeeTest\EmplyeeApplication\bin\Debug\EmployeeTest.dll
+C:\Users\fhala958\Source\repos\EmployeeTest\EmplyeeApplication\bin\Debug\nunit.framework.dll
+C:\Users\fhala958\Source\repos\EmployeeTest\EmplyeeApplication\bin\Debug\EmployeeTest.pdb
+C:\Users\fhala958\Source\repos\EmployeeTest\EmplyeeApplication\bin\Debug\nunit.framework.xml
+C:\Users\fhala958\Source\repos\EmployeeTest\EmplyeeApplication\obj\Debug\EmplyeeApplication.csprojResolveAssemblyReference.cache
+C:\Users\fhala958\Source\repos\EmployeeTest\EmplyeeApplication\obj\Debug\EmplyeeApplication.csproj.CoreCompileInputs.cache
+C:\Users\fhala958\Source\repos\EmployeeTest\EmplyeeApplication\obj\Debug\EmplyeeApplication.exe
+C:\Users\fhala958\Source\repos\EmployeeTest\EmplyeeApplication\obj\Debug\EmplyeeApplication.pdb

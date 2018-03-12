@@ -1,0 +1,10 @@
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBADataAccess\bin\Debug\NBADataAccess.dll.config
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBADataAccess\bin\Debug\NBADataAccess.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBADataAccess\bin\Debug\NBADataAccess.pdb
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBADataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBADataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBADataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBADataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBADataAccess\obj\Debug\NBA.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBADataAccess\obj\Debug\NBADataAccess.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBADataAccess\obj\Debug\NBADataAccess.pdb

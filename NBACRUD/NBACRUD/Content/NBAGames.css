@@ -1,0 +1,21 @@
+﻿th.header 
+{
+    cursor: pointer;
+    background-color:rgba(29,66,138,1);
+    color:white;
+}
+
+#export
+{
+    float:right;
+    padding-bottom:1em;
+    padding-top:1em;
+}
+
+body {background-image: url('~/images/nba.png');}
+
+th.header:hover {background-color:rgba(204,16,70,1);}
+
+#logo{ float:left;}
+
+/*tr:hover{background-color:rgb(77, 101, 148);}*/

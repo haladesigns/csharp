@@ -1,0 +1,8 @@
+c:\users\fhala958\Source\repos\LambdaAlexa\bin\Release\netcoreapp1.0\LambdaAlexa.deps.json
+c:\users\fhala958\Source\repos\LambdaAlexa\bin\Release\netcoreapp1.0\LambdaAlexa.dll
+c:\users\fhala958\Source\repos\LambdaAlexa\bin\Release\netcoreapp1.0\LambdaAlexa.pdb
+c:\users\fhala958\Source\repos\LambdaAlexa\obj\Release\netcoreapp1.0\LambdaAlexa.csproj.CoreCompileInputs.cache
+c:\users\fhala958\Source\repos\LambdaAlexa\obj\Release\netcoreapp1.0\LambdaAlexa.AssemblyInfoInputs.cache
+c:\users\fhala958\Source\repos\LambdaAlexa\obj\Release\netcoreapp1.0\LambdaAlexa.AssemblyInfo.cs
+c:\users\fhala958\Source\repos\LambdaAlexa\obj\Release\netcoreapp1.0\LambdaAlexa.dll
+c:\users\fhala958\Source\repos\LambdaAlexa\obj\Release\netcoreapp1.0\LambdaAlexa.pdb

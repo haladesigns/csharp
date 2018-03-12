@@ -1,0 +1,26 @@
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBA.Repository\bin\Debug\NBA.Repository.dll.config
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBA.Repository\bin\Debug\NBA.Repository.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBA.Repository\bin\Debug\NBA.Repository.pdb
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBA.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBA.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBA.Repository\bin\Debug\NBADataAccess.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBA.Repository\bin\Debug\NBADataAccess.pdb
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBA.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBA.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBA.Repository\obj\Debug\NBARepository.csprojResolveAssemblyReference.cache
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBA.Repository\obj\Debug\NBA.Repository.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\NBACRUD\NBA.Repository\obj\Debug\NBA.Repository.pdb
+C:\Users\fhala958\Source\repos\NBACRUD\NBA.Repository\bin\Debug\NBA.Repository.dll.config
+C:\Users\fhala958\Source\repos\NBACRUD\NBA.Repository\bin\Debug\NBA.Repository.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBA.Repository\bin\Debug\NBA.Repository.pdb
+C:\Users\fhala958\Source\repos\NBACRUD\NBA.Repository\bin\Debug\EntityFramework.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBA.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBA.Repository\bin\Debug\NBADataAccess.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBA.Repository\bin\Debug\NBADataAccess.pdb
+C:\Users\fhala958\Source\repos\NBACRUD\NBA.Repository\bin\Debug\NBADataAccess.dll.config
+C:\Users\fhala958\Source\repos\NBACRUD\NBA.Repository\bin\Debug\EntityFramework.xml
+C:\Users\fhala958\Source\repos\NBACRUD\NBA.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fhala958\Source\repos\NBACRUD\NBA.Repository\obj\Debug\NBARepository.csprojResolveAssemblyReference.cache
+C:\Users\fhala958\Source\repos\NBACRUD\NBA.Repository\obj\Debug\NBARepository.csproj.CoreCompileInputs.cache
+C:\Users\fhala958\Source\repos\NBACRUD\NBA.Repository\obj\Debug\NBA.Repository.dll
+C:\Users\fhala958\Source\repos\NBACRUD\NBA.Repository\obj\Debug\NBA.Repository.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NBA", "NBACRUD\NBA.csproj", "{3B9CD6D6-F6CE-471C-8A09-B27BDFAD0B55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NBADataAccess", "NBADataAccess\NBADataAccess.csproj", "{8A559767-BD0B-4E56-9E19-C0937D0F4F51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NBARepository", "NBA.Repository\NBARepository.csproj", "{BCCDEFD4-61AE-43E7-92CD-EFD299615A75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B9CD6D6-F6CE-471C-8A09-B27BDFAD0B55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B9CD6D6-F6CE-471C-8A09-B27BDFAD0B55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B9CD6D6-F6CE-471C-8A09-B27BDFAD0B55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B9CD6D6-F6CE-471C-8A09-B27BDFAD0B55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A559767-BD0B-4E56-9E19-C0937D0F4F51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A559767-BD0B-4E56-9E19-C0937D0F4F51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A559767-BD0B-4E56-9E19-C0937D0F4F51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A559767-BD0B-4E56-9E19-C0937D0F4F51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCCDEFD4-61AE-43E7-92CD-EFD299615A75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCCDEFD4-61AE-43E7-92CD-EFD299615A75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCCDEFD4-61AE-43E7-92CD-EFD299615A75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCCDEFD4-61AE-43E7-92CD-EFD299615A75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
